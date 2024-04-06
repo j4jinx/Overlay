@@ -1,0 +1,1 @@
+{"v":4,"entries":{"overlay--docs":{"id":"overlay--docs","title":"Overlay","name":"Docs","importPath":"./.storybook/Overlay.stories.jsx","type":"docs","tags":["docs","autodocs"],"storiesImports":[]},"overlay--demo":{"type":"story","id":"overlay--demo","name":"Demo","title":"Overlay","importPath":"./.storybook/Overlay.stories.jsx","tags":["story"]}}}
