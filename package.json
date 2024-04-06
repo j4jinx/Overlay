@@ -1,6 +1,6 @@
 {
-  "name": "@j4jinx/overlay",
-  "version": "1.0.0",
+  "name": "@j4jinxx/overlay",
+  "version": "1.1.0",
   "description": "Minimal Overlay/Backdrop React Component",
   "type": "module",
   "main": "dist/index.cjs.js",
@@ -15,6 +15,7 @@
   "keywords": [
     "react",
     "j4jinx",
+    "j4jinxx",
     "amol",
     "meshram",
     "component",

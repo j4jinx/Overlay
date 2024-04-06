@@ -3,10 +3,10 @@ Minimal Overlay/Backdrop React Component
 
 
 ## Install
-    npm i @j4jinx/overlay
+    npm i @j4jinxx/overlay
 
 ## Import
-    import Overlay from '@j4jinx/overlay';
+    import Overlay from '@j4jinxx/overlay';
 
 
 ## Props
